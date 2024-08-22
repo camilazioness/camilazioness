@@ -4,9 +4,24 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+enthusiast..&hearts;++;Constantly+learning!;LET'S CONNECT..&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+enthusiast..+%E2%9D%A4;Constantly+learning!;LET%27S+CONNECT..+%E2%9D%A4">
+  </a>
 </p>
+<br>
 
+<h2 align="center"> <b>🌐 Connect with me</b> </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu.correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=" alt="Correo" />
+  </a>
+  <a href="https://www.ejemplo.com/ruta-a-tu-cv">
+    <img src="https://img.shields.io/badge/CV-47A248?style=for-the-badge&logo=google-drive&logoColor=white&logoWidth=20&label=" alt="CV" />
+  </a>
+</p>
 <br>
 
 ## 🛠️ Skills
@@ -22,18 +37,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-<h2 align="center"> <b>🌐 Connect with me</b> </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu.correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=" alt="Correo" />
-  </a>
-  <a href="https://www.ejemplo.com/ruta-a-tu-cv">
-    <img src="https://img.shields.io/badge/CV-47A248?style=for-the-badge&logo=google-drive&logoColor=white&logoWidth=20&label=" alt="CV" />
-  </a>
-</p>
 
 
 
