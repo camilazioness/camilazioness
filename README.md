@@ -12,10 +12,10 @@
 
 <h2 align="center"> <b>🌐 Connect with me</b> </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="https://es.linkedin.com/in/camila-calder%C3%B3n-ocampo-71a40b30a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu.correo@ejemplo.com">
+  <a href="mailto:calderoncamila562@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=" alt="Correo" />
   </a>
   <a href="https://www.ejemplo.com/ruta-a-tu-cv">
